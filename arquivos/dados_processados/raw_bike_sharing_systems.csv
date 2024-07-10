@@ -1,4 +1,4 @@
-"COUNTRY","City","Name","SYSTEM","OPERATOR","LAUNCHED","DISCONTINUED","STATIONS","BICYCLES","DAILY_RIDERSHIP"
+"COUNTRY","CITY","NAME","SYSTEM","OPERATOR","LAUNCHED","DISCONTINUED","STATIONS","BICYCLES","DAILY_RIDERSHIP"
 "Albania","Tirana","Ecovolis",NA,NA,"March 2011",NA,"8","200",NA
 "Argentina","Mendoza","Metrobici",NA,NA,"2014",NA,"2","40",NA
 "Argentina","San Lorenzo, Santa Fe","Biciudad","Biciudad",NA,"27 November 2016",NA,"8","80",NA

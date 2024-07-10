@@ -10,11 +10,11 @@ Você assumirá o papel de um Cientista de Dados que recentemente se juntou a um
 
 Você assumirá as tarefas de:
 
-- Coletando e entendendo dados de várias fontes
-- Realizando disputa e preparação de dados com expressões regulares e Tidyverse
-- Realização de análise exploratória de dados com SQL e visualização utilizando Tidyverse e ggplot2
-- Realizando a modelagem dos dados com regressões lineares usando Tidymodels
-- Criando um painel interativo usando o R Shiny
+-   Coletando e entendendo dados de várias fontes
+-   Realizando disputa e preparação de dados com expressões regulares e Tidyverse
+-   Realização de análise exploratória de dados com SQL e visualização utilizando Tidyverse e ggplot2
+-   Realizando a modelagem dos dados com regressões lineares usando Tidymodels
+-   Criando um painel interativo usando o R Shiny
 
 O projeto culminará com a apresentação do seu relatório de análise de dados, com um resumo executivo para os vários stakeholders da organização. Você será avaliado tanto em seu trabalho para as várias etapas do processo de análise de dados, quanto na entrega final.
 
@@ -30,7 +30,14 @@ A última tarefa é criar uma apresentação de slides perspicaz e informativa e
 
 ## **Origem dos Dados**
 
-- Conjunto de dados de demanda do Seoul Bike Sharing
-- Dados da API Open Weather
-- Conjunto de dados de sistemas globais de compartilhamento de bicicletas
-- Dados de Cidades Mundiais
+-   Conjunto de dados de demanda do Seoul Bike Sharing
+-   Dados da API Open Weather
+-   Conjunto de dados de sistemas globais de compartilhamento de bicicletas
+-   Dados de Cidades Mundiais
+
+## **Ordem de execução dos scripts**
+
+1.  webscraping_wiki_global_bike_sharing
+2.  api_open_weather
+3.  processing_data_regular_expressions
+4.  processing_data_dplyr
