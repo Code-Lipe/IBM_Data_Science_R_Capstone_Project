@@ -41,3 +41,5 @@ A última tarefa é criar uma apresentação de slides perspicaz e informativa e
 2.  api_open_weather
 3.  processing_data_regular_expressions
 4.  processing_data_dplyr
+5.  eda_sqlite
+6.  eda_tidyverse_ggplot2
