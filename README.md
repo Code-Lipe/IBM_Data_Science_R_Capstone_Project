@@ -45,3 +45,4 @@ A última tarefa é criar uma apresentação de slides perspicaz e informativa e
 4.  processing_data_dplyr
 5.  eda_sqlite
 6.  eda_tidyverse_ggplot2
+7.  linear_models_baselines
