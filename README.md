@@ -2,6 +2,8 @@
 
 Repositório destinado ao meu aprendizado em análise de dados.
 
+**Visualize o dashboard:** [Code-Lipe/Shiny](https://code-lipe.shinyapps.io/rshiny_app/)
+
 ## **Visão geral do Capstone**
 
 Neste curso de conclusão você aplicará várias habilidades e técnicas de Ciência de Dados que você aprendeu como parte dos cursos anteriores.
